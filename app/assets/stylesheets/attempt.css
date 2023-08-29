@@ -1,0 +1,10 @@
+.attempt {
+  border-color: rgb(217, 217, 217);
+  border-width: 0.8px;
+  margin-top: 16px;
+  padding: 2px;
+  width: 100%;
+}
+.label {
+  margin-top: 16px;
+}
